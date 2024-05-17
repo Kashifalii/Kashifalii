@@ -76,16 +76,10 @@
 
 ###
 
-<img align="left" height="222" src="https://i.pinimg.com/originals/26/5a/26/265a269f669cb0868771260b88279d31.gif"  />
+<img align="left" height="300" src="https://media.smallbiztrends.com/2021/08/elementor-templates-for-your-website.png"  />
 
 ###
 
-<img align="left" height="200" src="https://media.smallbiztrends.com/2021/08/elementor-templates-for-your-website.png"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://brandpoets.com/wp-content/uploads/2021/06/Inspira-Website-Mockup.gif"  />
-</div>
+<img align="left" height="300" src="https://downloadpsd.cc/wp-content/uploads/2018/12/Dark-Portfolio-Website-Template.jpg"  />
 
 ###
