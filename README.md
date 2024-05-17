@@ -76,7 +76,7 @@
 
 ###
 
-<img align="left" height="300" src="https://media.smallbiztrends.com/2021/08/elementor-templates-for-your-website.png"  />
+<img align="left" height="250" src="https://media.smallbiztrends.com/2021/08/elementor-templates-for-your-website.png"  />
 
 ###
 
