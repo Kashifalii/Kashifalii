@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width="750px" height="200px"  align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
+  <img  width="750px" height="200px" style="object-fit: cover;" align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
 </div>
 
 ###
