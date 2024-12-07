@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width="750px" height="200px" style="object-fit: cover;" align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
+  <img  width="750px" align="center" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif"  />
 </div>
 
 ###
